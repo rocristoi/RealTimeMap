@@ -90,25 +90,16 @@
         <strong>Frontend:</strong> Angular
     </li>
 </ul>
-<p>
-    <img src="/sites/default/files/inline-images/angular_1.png" data-entity-uuid="6ef45149-51e6-447e-9643-a89cc5287ddf" data-entity-type="file" width="193" height="193">
-</p>
 <ul>
     <li>
         <strong>Backend:</strong> Node.js
     </li>
 </ul>
-<p>
-    <img src="/sites/default/files/inline-images/node_js_0.png" data-entity-uuid="a48e7329-14c0-4037-8cc4-385e543455c0" data-entity-type="file" width="199" height="199">
-</p>
 <ul>
     <li>
         <strong>Bază de date:</strong> MySQL
     </li>
 </ul>
-<p>
-    <img src="/sites/default/files/inline-images/database_0.png" data-entity-uuid="1378472b-b0d0-406c-b8f4-298902896256" data-entity-type="file" width="212" height="128">
-</p>
 <ul>
     <li>
         <strong>Formate de date:</strong> GTFS, GTFS Realtime, GeoJSON
